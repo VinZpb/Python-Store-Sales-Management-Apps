@@ -1,4 +1,4 @@
-# Python-Store-Sales-Management-Apps
+# Store Sales Management System #
   This program is python based and use for managing store sales data.
   The program is intended to be used by both employees and stakeholders.
   The employee can't gain access to confidential data while the stakeholder gains access to all data.
