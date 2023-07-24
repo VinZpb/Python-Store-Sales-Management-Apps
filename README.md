@@ -15,7 +15,7 @@ Welcome to Store Sales Management System
 3. Update Products         # --> Update a product based on requested product id and category(price/quantity/sales).
 4. Delete Products         # --> Delete a product based on requested product id.
 5. Record Sales            # --> Record sales of a product based on requested product id and reducing that product quantity.
-6. Report                  # --> Pin is nescessary for gaining access to report menu. Cost of Good Sold of products can only be viewed and updated in this menu.
+6. Report                  # --> Pin is necessary for gaining access to report menu. Cost of Good Sold of products can only be viewed and updated in this menu.
 7. Exit                    # --> Exit to terminate program 
 
 # --> Views menu is consist of 3 option as presented:
