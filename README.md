@@ -50,6 +50,6 @@ Welcome to Report Menu
                                                 # --> Step 1: Printing products with its each product profit sorted from highest profit.
                                                 # --> Step 2: Printing segment with its each segment profit sorted from highest profit.
                                                 # --> Step 3: Printing Total Profit.   
-2. Update a Product Cost of Good Sold     # --> Update a Product Cost of Good Sold based on requested product id
+2. Update a Product Cost of Good Sold     # --> Update a Product Cost of Good Sold based on requested product id.
 3. Change Pin Numbers
 4. Exit to Main Menu
