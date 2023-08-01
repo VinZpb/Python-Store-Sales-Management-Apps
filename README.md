@@ -61,3 +61,5 @@ Welcome to Report Menu
 -	Update a Product Cost of Good Sold based on requested product id.
 3.	Change Pin Numbers
 4.	Exit to Main Menu
+
+# 7.  Exit menu is selected to terminate program
