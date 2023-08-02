@@ -60,6 +60,7 @@ Welcome to Record Sales Menu
 # 6.	Report menu is consist of 4 option as presented:
 
 ![Report Menu](https://github.com/VinZpb/Python-Store-Sales-Management-Apps/assets/139098818/df3321bd-5613-48e9-a43e-da3f6fc72171)
+
 Welcome to Report Menu
 1.	Make a report
 
