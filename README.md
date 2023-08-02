@@ -10,6 +10,7 @@
 # B.	Main menu is consist of 7 option as presented:
 
 ![Main Menu](https://github.com/VinZpb/Python-Store-Sales-Management-Apps/assets/139098818/93398104-f1d5-4130-952a-89a0d47a9554)
+
 Welcome to Store Sales Management System
 1.	View Products         
 2.	Add Products
